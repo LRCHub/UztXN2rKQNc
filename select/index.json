@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "CRAZY NOISY BIZARRE TOWN 〜EDM ARRANGE VER.〜",
+  "base_artist": "THE DU",
+  "createdAt": "2025-12-15T06:38:34.110207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN 〜EDM ARRANGE VER.〜",
+      "artist": "THE DU - Topic",
+      "has_synced": true,
+      "path": "select/01_CRAZY_NOISY_BIZARRE_TOWN_〜EDM_ARRANGE_VER.〜_THE_DU_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN - EDM ARRANGE VER.",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/02_CRAZY_NOISY_BIZARRE_TOWN_-_EDM_ARRANGE_VER._THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN ～EDM ARRANGE VER.～",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/03_CRAZY_NOISY_BIZARRE_TOWN_~EDM_ARRANGE_VER.~_THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN 〜EDM ARRANGE VER.〜",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/04_CRAZY_NOISY_BIZARRE_TOWN_〜EDM_ARRANGE_VER.〜_THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CRAZY NOISY BIZARRE TOWN 〜EDM ARRANGE VER.〜",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/05_CRAZY_NOISY_BIZARRE_TOWN_〜EDM_ARRANGE_VER.〜_THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town EDM arrange Ver. ~ORIGINAL KARAOKE~",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/06_Crazy_Noisy_Bizarre_Town_EDM_arrange_Ver._~ORIGINAL_KARAOKE~_THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town (EDM arrange Ver.)",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/07_Crazy_Noisy_Bizarre_Town_(EDM_arrange_Ver.)_THE_DU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy Noisy Bizarre Town (EDM arrange Ver.) ~ORIGINAL KARAOKE~",
+      "artist": "THE DU",
+      "has_synced": true,
+      "path": "select/08_Crazy_Noisy_Bizarre_Town_(EDM_arrange_Ver.)_~ORIGINAL_KARAOKE~_THE_DU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy Noisy Bizarre Town EDM Arrange Ver.",
+      "artist": "THE DU",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_Noisy_Bizarre_Town_EDM_Arrange_Ver._THE_DU.txt"
+    }
+  ]
+}
